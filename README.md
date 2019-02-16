@@ -1,1 +1,1 @@
-# springdemos
+Spring Boot and Weblogic integration to read all image files under resources/images
